@@ -1,4 +1,4 @@
 D3-WordCloud-JSON
 =================
 
-Word Cloud JSON Visualisation
+A simple word cloud visualisation based on Jason Davies, http://www.jasondavies.com/word-cloud/
